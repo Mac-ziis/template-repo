@@ -1,7 +1,7 @@
 {
   "name": "",
   "version": "1.0.0",
-  "description": "",
+  "description": "project title",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode=development",
